@@ -1,0 +1,6 @@
+ValorTotal = int(input("Informe o valor do produto: "))
+NumParcelas = int(input("Informe o número de parcelas do pagamento: "))
+ValorParcelas = (ValorTotal/NumParcelas)
+print ("O valor do Item é:R$",ValorTotal)
+print ("O número de parcelas é de: ",NumParcelas)
+print ("O valor de cada parcela é de:R$",ValorParcelas)

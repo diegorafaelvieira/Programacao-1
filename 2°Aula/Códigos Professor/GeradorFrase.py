@@ -1,0 +1,6 @@
+adjetivo = input('Insira um adjetivo: ')
+substantivo = input('Insira um substantivo: ')
+verbo = input('Insira um verbo no passado: ')
+animal = input('Insira uma espécie de animal: ')
+print('Sua frase gerada:')
+print('O', adjetivo, substantivo, verbo, 'com seu', animal,'.')

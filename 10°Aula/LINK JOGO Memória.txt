@@ -1,0 +1,28 @@
+Informar linha e coluna
+
+registrar o número de jogadas:virar 2 cartas
+
+exibir mensagem de fim de jogo mais pontuação
+
+entrega 29/5  -  19horas
+
+biblioteca gráfica : pygame
+
+valores linhas,coluna (4,4)
+
+pygame fazendo jogos com phyton parte 2 
+
+cartas dentro do array (16 cartas)
+
+https://python.nilo.pro.br/exercicios/capitulo%2007/exercicio-07-10.html
+
+http://jacarepagua.dcc.ufrj.br/~ladybug/aulas-python1/aula12_pratica.pdf
+
+
+https://raphaelmarques.wordpress.com/2010/03/24/tutorial-jogo-da-memoria-com-javafx/#more-390
+
+http://jaccon.com.br/category/meus-projetos/
+
+http://www.dcc.ufrj.br/~fabiom/mab225/pythonbasico.pdf
+
+https://www.youtube.com/watch?v=-jlfRMbjCMc

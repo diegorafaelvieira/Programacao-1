@@ -1,0 +1,11 @@
+val1 = int(input("Digite o primeiro valor:"))
+val2 = int(input("Digite o segundo valor:"))
+print (val1+val2)
+print (val1-val2)
+print (val1*val2)
+print (val1/val2)
+print (val1%val2)
+print (val1**val2)
+print ((2*val1)+val2)
+media = (val1+val2)/2
+print ("A média é:",media)
